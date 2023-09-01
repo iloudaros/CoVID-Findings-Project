@@ -1,5 +1,5 @@
 # CoVID19 Findings
-![image](report/images/clustering%20pairplot.png)
+![image](report/images/total%20deaths.png)
 
 This is a project on Data Mining and Machine Learning for the Computer Engineering and Informatics Department of the University of Patras.
 
