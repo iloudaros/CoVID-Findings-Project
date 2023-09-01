@@ -1,4 +1,4 @@
-# CovID19 Findings
+# CoVID19 Findings
 
 This is a project on Data Mining and Machine Learning for the Computer Engineering and Informatics Department of the University of Patras.
 
