@@ -3,7 +3,7 @@
 
 This is a project on Data Mining and Machine Learning for the Computer Engineering and Informatics Department of the University of Patras.
 
-Brought to you by Ioannis Loudaros and Christina Kratimenou.
+Brought to you by [Ioannis Loudaros](https://github.com/iloudaros) and [Christina Kratimenou](https://github.com/Kout-ou).
 
 We explore CovID19 Data of different countries to draw some conclusions about the features that played key roles on the fight with the pandemic. 
 
