@@ -1,6 +1,6 @@
-# Data Mining and Machine Learning Project
+# CovID19 Findings
 
-This is a project for the Computer Engineering and Informatics Department of the University of Patras.
+This is a project on Data Mining and Machine Learning for the Computer Engineering and Informatics Department of the University of Patras.
 
 Brought to you by Ioannis Loudaros and Christina Kratimenou.
 
